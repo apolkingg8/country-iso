@@ -1,7 +1,7 @@
 'use strict';
 
 const GeoJsonPolygonLookup = require('geojson-geometries-lookup');
-const getMap = require('@geo-maps/countries-maritime-10m');
+const getMap = require('@geo-maps/countries-maritime-5km');
 
 let worldLookup = null;
 
